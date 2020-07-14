@@ -7,8 +7,8 @@ namespace kwnlp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Press any key to end...");
-            Console.ReadLine();
+            Lib helloWorld = new Lib();
+            Console.WriteLine(helloWorld.GreetMe("What's up?"));
         }
     }
 }
