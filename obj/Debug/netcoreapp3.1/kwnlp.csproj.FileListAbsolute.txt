@@ -1,0 +1,12 @@
+/Users/wolfe/Documents/GitHub/kwnlp/bin/Debug/netcoreapp3.1/kwnlp.deps.json
+/Users/wolfe/Documents/GitHub/kwnlp/bin/Debug/netcoreapp3.1/kwnlp.runtimeconfig.json
+/Users/wolfe/Documents/GitHub/kwnlp/bin/Debug/netcoreapp3.1/kwnlp.runtimeconfig.dev.json
+/Users/wolfe/Documents/GitHub/kwnlp/bin/Debug/netcoreapp3.1/kwnlp.dll
+/Users/wolfe/Documents/GitHub/kwnlp/bin/Debug/netcoreapp3.1/kwnlp.pdb
+/Users/wolfe/Documents/GitHub/kwnlp/obj/Debug/netcoreapp3.1/kwnlp.csprojAssemblyReference.cache
+/Users/wolfe/Documents/GitHub/kwnlp/obj/Debug/netcoreapp3.1/kwnlp.AssemblyInfoInputs.cache
+/Users/wolfe/Documents/GitHub/kwnlp/obj/Debug/netcoreapp3.1/kwnlp.AssemblyInfo.cs
+/Users/wolfe/Documents/GitHub/kwnlp/obj/Debug/netcoreapp3.1/kwnlp.csproj.CoreCompileInputs.cache
+/Users/wolfe/Documents/GitHub/kwnlp/obj/Debug/netcoreapp3.1/kwnlp.dll
+/Users/wolfe/Documents/GitHub/kwnlp/obj/Debug/netcoreapp3.1/kwnlp.pdb
+/Users/wolfe/Documents/GitHub/kwnlp/obj/Debug/netcoreapp3.1/kwnlp.genruntimeconfig.cache
