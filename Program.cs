@@ -7,7 +7,7 @@ namespace kwnlp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Write("Press any key to end...");
+            Console.WriteLine("Press any key to end...");
             Console.ReadLine();
         }
     }
